@@ -1,10 +1,10 @@
 {
-  "CONTRACT_ADDRESS": "0x0b18b900F7375AABDa00EEaC988116C33fb05BD2",
-  "SCAN_LINK": "https://polygonscan.com/token/0x0b18b900F7375AABDa00EEaC988116C33fb05BD2",
+  "CONTRACT_ADDRESS": "0x5026ffE543768f32009AF519bc8699A6a16974Ca",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x5026ffe543768f32009af519bc8699a6a16974ca",
   "NETWORK": {
-    "NAME": "Polygon",
-    "SYMBOL": "Matic",
-    "ID": 137
+    "NAME": "Rinkeby Test Network",
+    "SYMBOL": "RETH",
+    "ID": 4
   },
   "NFT_NAME": "The Stripes NFT",
   "SYMBOL": "TSNFT",
